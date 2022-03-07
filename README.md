@@ -7,6 +7,7 @@
 
 <p align="center">
   <img width="600" height="400" src="src/assets/to_readme/TrailerFlix.gif">
+  <img width="600" height="400" src="src/assets/to_readme/TrailerFlix2.gif">
 </p>
 
 # Resumo do projeto
