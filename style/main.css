@@ -1,0 +1,176 @@
+:root{
+    --vermelho:#e50914;
+    --preta:#141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* elementos base*/
+
+body{
+   background: var(--preta);
+   font-family: 'Arial', Times, serif;
+   color: #fff;
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header .logo{
+    color: var(--vermelho);
+    font-family: 'arial black', times;
+    font-size: 40px;
+    margin-left: 15px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;
+}
+
+header nav a:hover{
+    color: #fff
+}
+
+/*filme principal*/
+
+
+.filme-principal{
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/capa-the100.jpg');
+    
+    height: 520px;
+    background-size: cover;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .titulo{
+    margin-top: 15%;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+.filme-principal .descricao{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.botao{
+    background-color: rgba(0, 0, 0,.50);
+    border: none;
+    border-radius: 3px;
+    color: white;
+
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+
+    cursor: pointer;
+    transition: 2s ease all;
+}
+
+.botao:hover{
+    background-color: white;
+    color: black;
+}
+
+.botao i{
+    margin-right: 8px;
+}
+
+.container{
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.filme-principal .container{
+    width: 70%;
+}
+
+.box-filme{
+    height: 80%;
+    width: 80%;
+    display: block;
+}
+
+.carrosel-filmes{
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/*Sessão series*/
+
+section {
+    width: 1270px;
+    height: 550px;
+    margin-left: 35px;
+    margin-right: 10px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    display: inline-block;
+    align-items: center;
+}
+
+
+h3{
+    font-size: 50px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+.conteudo {
+    font-size: 16px;
+    margin: 0px 500px -50px 340px;    
+}
+
+.conteudo .descricao {
+    /*background: red;*/
+    width: 330px;
+    height: 160px;
+}
+
+.mini1 {
+    width: 318px;
+    height: 475px;
+    float: left;
+    margin-top: -173px;
+    margin-bottom: 0;
+}
+
+.video p {
+    font-size: 30px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    margin: 60px 20px 10px auto;
+}
+
+.video{
+    /*background-color: #fff;*/
+    width: 600px;
+    height: 400px;
+	margin: -208px 0 0 670px;
+    text-align: center;
+    align-items: center;
+}
+
+.rodape {
+    padding: 40px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.rodape .icon {
+    padding: 10px;
+}
