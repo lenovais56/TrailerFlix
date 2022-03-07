@@ -1,8 +1,8 @@
 <h1 align="center" font-size="bold" color-font="red"> TrailerFlix </h1>
 
-
-<p align="center"> 
-  Olá Devs, me chamo Leandro e esse projeto foi baseado e inspirado em clonar o site do Netflix.
+# Olá Devs
+<p> 
+  Me chamo Leandro e esse projeto foi baseado e inspirado em clonar o site do Netflix.
 </p>
 
 <p align="center">
@@ -12,6 +12,8 @@
 # Resumo do projeto
 
 <p>
+  
+  ``O TrailerFlix é uma página web que disponibiliza trailer de filmes, séries e inclusive estreias.``
   
   ``O usuário tem acesso a diversos filmes, series e documentários onde pode assistir trailers dos mesmos sem sair da página.
   Conta também com uma lista de filmes que irão estreiar em 2022 e nessa lista também tem acesso a sinopse e trailers.``
