@@ -25,7 +25,7 @@
 
 - `Funcionalidade 1` `Carrossel`: Carrossel na home com a capa dos principais filmes, séries e documentários da página.
 - `Funcionalidade 2` `Trailers`: Trailers atualizados disponíveis para assistir na própria página.
-- `Funcionalidade 3` `Estreias`: Lista com os principais filmes que irão estreiar em 2022.
+- `Funcionalidade 3` `Estreias`: Lista com os principais filmes que irão estrear em 2022.
 - `Funcionalidade 4` `Sinopse`: Sinopse de todos os filmes, series, documentários e inclusive das estreias.
 
 ## ✔️ Tecnologias utilizadas
