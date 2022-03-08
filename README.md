@@ -33,3 +33,7 @@
 - ``HTML5``
 - ``CSS3``
 - ``VS code``
+
+## 💻 Acesse o site
+
+https://trailer-flix-lenovais56.vercel.app/
